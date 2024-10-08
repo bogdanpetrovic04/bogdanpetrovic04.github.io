@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Online HTML Editor</title>
+</head>
+
+<body>
+    <td width="100%" height="90%" valign="top">
+
+
+
+
+        <h1 align="center">
+            <font color="#0000A0">raspored</font>
+        </h1>
+        <table border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+            <tbody>
+                <tr>
+                    <td rowspan="2" width="100" valign="middle" align="center" bgcolor="#ffffff"><br></td>
+                    <td width="7%" valign="middle" align="center"><big>1</big></td>
+                    <td width="7%" valign="middle" align="center"><big>2</big></td>
+                    <td width="7%" valign="middle" align="center"><big>3</big></td>
+                    <td width="7%" valign="middle" align="center"><big>4</big></td>
+                    <td width="7%" valign="middle" align="center"><big>5</big></td>
+                    <td width="7%" valign="middle" align="center"><big>6</big></td>
+                    <td width="7%" valign="middle" align="center"><big>7</big></td>
+                    <td width="7%" valign="middle" align="center"><big>8</big></td>
+                    <td width="7%" valign="middle" align="center"><big>9</big></td>
+                    <td width="7%" valign="middle" align="center"><big>10</big></td>
+                    <td width="7%" valign="middle" align="center"><big>11</big></td>
+                    <td width="7%" valign="middle" align="center"><big>12</big></td>
+                    <td width="7%" valign="middle" align="center"><big>13</big></td>
+                </tr>
+                <tr>
+                    <td width="7%" valign="middle" align="center"><small>08:15 - 09:00</small></td>
+                    <td width="7%" valign="middle" align="center"><small>09:15 - 10:00</small></td>
+                    <td width="7%" valign="middle" align="center"><small>10:15 - 11:00</small></td>
+                    <td width="7%" valign="middle" align="center"><small>11:15 - 12:00</small></td>
+                    <td width="7%" valign="middle" align="center"><small>12:15 - 13:00</small></td>
+                    <td width="7%" valign="middle" align="center"><small>13:15 - 14:00</small></td>
+                    <td width="7%" valign="middle" align="center"><small>14:15 - 15:00</small></td>
+                    <td width="7%" valign="middle" align="center"><small>15:15 - 16:00</small></td>
+                    <td width="7%" valign="middle" align="center"><small>16:15 - 17:00</small></td>
+                    <td width="7%" valign="middle" align="center"><small>17:15 - 18:00</small></td>
+                    <td width="7%" valign="middle" align="center"><small>18:15 - 19:00</small></td>
+                    <td width="7%" valign="middle" align="center"><small>19:15 - 20:00</small></td>
+                    <td width="7%" valign="middle" align="center"><small>20:15 - 21:00</small></td>
+                </tr>
+                <tr>
+                    <td valign="middle" align="center" height="70"><big>Понедељак</big></td>
+                    <td valign="middle" align="center" height="34%"><small>Програмске парадигме (вежбе)<br>ГР1, ГР2<br>СКРИ11<br>Н202</small></td>
+                    <td valign="middle" align="center" height="34%"><small>Програмске парадигме (вежбе)<br>ГР1, ГР2<br>СКРИ11<br>Н202</small></td>
+                    <td><br></td>
+                    <td><br></td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Дискретна математика<br>ДСМ<br>Марко Радовановић<br>706</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Дискретна математика<br>ДСМ<br>Марко Радовановић<br>706</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td colspan="2" valign="middle" align="center">Алгебра 1 (вежбе)<br>Стефан Митровић<br>840</td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Анализа 2 (вежбе)<br>2Р2Б<br>Душица Дмитровић<br>843</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Анализа 2 (вежбе)<br>2Р2Б<br>Душица Дмитровић<br>843</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%" bgcolor="#ffffff"><small><br></small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td><br></td>
+                    <td><br></td>
+                </tr>
+                <tr>
+                    <td valign="middle" align="center" height="70"><big>Уторак</big></td>
+                    <td colspan="2" valign="middle" align="center">Лексичка анализа и њене примене<br>Филип Марић<br>830</td>
+                    <td><br></td>
+                    <td><br></td>
+                    <td><br></td>
+                    <td colspan="2" valign="middle" align="center">УОАР<br>Данијела Симић<br>844</td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%" bgcolor="#ffffff"><small>&nbsp;</small></td>
+                                </tr>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Анализа 2<br>2Р2Б<br>Миљан Кнежевић<br>830</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%" bgcolor="#ffffff"><small>&nbsp;</small></td>
+                                </tr>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Анализа 2<br>2Р2Б<br>Миљан Кнежевић<br>830</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%" bgcolor="#ffffff"><small>&nbsp;</small></td>
+                                </tr>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Основи геометрије (вежбе)<br>2Р2Б<br>Катарина Лукић<br>821</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%" bgcolor="#ffffff"><small>&nbsp;</small></td>
+                                </tr>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Основи геометрије (вежбе)<br>2Р2Б<br>Катарина Лукић<br>821</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%" bgcolor="#ffffff"><small>&nbsp;</small></td>
+                                </tr>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Основи геометрије (вежбе)<br>2Р2Б<br>Катарина Лукић<br>821</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td><br></td>
+                </tr>
+                <tr>
+                    <td valign="middle" align="center" height="70"><big>Среда</big></td>
+                    <td><br></td>
+                    <td><br></td>
+                    <td><br></td>
+                    <td><br></td>
+                    <td colspan="1" valign="middle" align="center">Основи геометрије<br>Мирослава Антић<br>706 <hr><small>Увод у алгоритме и структуре података (вежбе)<br>3РБ<br>Страхиња Станојевић<br>Н153</small></td>
+                    <td colspan="1" valign="middle" align="center">Основи геометрије<br>Мирослава Антић<br>706 <hr><small>Увод у алгоритме и структуре података (вежбе)<br>3РБ<br>Страхиња Станојевић<br>Н153</small></td>
+                    <td colspan="1" valign="middle" align="center">Основи геометрије<br>Мирослава Антић<br>706 <hr> Математичка логика у рачунарству<br>Славко Моцоња<br>Н153</td>
+                    <td colspan="1" valign="middle" align="center">Математичка логика у рачунарству<br>Славко Моцоња<br>Н153</td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%" bgcolor="#ffffff"><small><br></small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%" bgcolor="#ffffff"><small><br></small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%" bgcolor="#ffffff"><small><br></small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td><br></td>
+                    <td><br></td>
+                </tr>
+                <tr>
+                    <td valign="middle" align="center" height="70"><big>Четвртак</big></td>
+                    <td colspan="2" valign="middle" align="center">Програмске парадигме<br>Мирко Спасић<br>830</td>
+                    <td colspan="2" valign="middle" align="center">Математичка логика у рачунарству (вежбе)<br>Стефан Митровић<br>821</td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%" bgcolor="#ffffff"><small>&nbsp;</small></td>
+                                </tr>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Анализа 2<br>2Р2Б<br>Миљан Кнежевић<br>830</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Анализа 2<br>2Р2Б<br>Миљан Кнежевић<br>830</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%" bgcolor="#ffffff"><small><br></small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td colspan="3" valign="middle" align="center">Алгебра 1<br>Тања Стојадиновић<br>706</td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Дискретна математика (вежбе)<br>ДСМ<br>СКАМЛ1<br>706</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Дискретна математика (вежбе)<br>ДСМ<br>СКАМЛ1<br>706</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td><br></td>
+                </tr>
+                <tr>
+                    <td valign="middle" align="center" height="70"><big>Петак</big></td>
+                    <td><br></td>
+                    <td><br></td>
+                    <td><br></td>
+                    <td valign="middle" align="center" height="50%"><small>Лексичка анализа и њене примене (вежбе)<br>3РБ<br>СКРИ10<br>Н201</small></td>
+                    <td valign="middle" align="center" height="50%"><small>Лексичка анализа и њене примене (вежбе)<br>3РБ<br>СКРИ10<br>Н201</small></td>
+                    <td valign="middle" align="center" height="50%"><small>Увод у алгоритме и структуре података (вежбе)<br>3РА<br>Страхиња Станојевић<br>Н202</small></td><td valign="middle" align="center" height="50%"><small>Увод у алгоритме и структуре података (вежбе)<br>3РА<br>Страхиња Станојевић<br>Н202</small><hr>УОАР (вежбе)<br>Невена Ћирић<br>718</td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>УОАР (вежбе)<br>Невена Ћирић<br>718</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Анализа 2 (вежбе)<br>2Р2Б<br>Душица Дмитровић<br>406</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td>
+                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%" bgcolor="#ffffff"><small>&nbsp;</small></td>
+                                </tr>
+                                <tr>
+                                    <td valign="middle" align="center" height="50%"><small>Анализа 2 (вежбе)<br>2Р2Б<br>Душица Дмитровић<br>406</small></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td><br></td>
+                    <td><br></td>
+                </tr>
+            </tbody>
+        </table>
+
+
+
+
+
+    </td>
+</body>
+
+</html>
